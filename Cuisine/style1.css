@@ -33,11 +33,33 @@ text-decoration: underline;
 {
     background-color: fuchsia;
     padding: 20px;
-    margin:30px;
-    border: 15px solid red;
+    margin: 30px;
+    border: 10px solid red;
 }
 #Title{
     border: 9px solid orange;
     padding: 20px;
 
+}
+button
+{
+background-color: blue;
+color:white;
+font-size: 15px;
+font-weight: bold;
+padding: 7px;
+border-radius: 5px;
+border:none;
+width: 100px;
+}
+#button
+{
+    text-align: center;
+}
+#contactus
+{
+    text-align: center;
+    background-color: yellow;
+    margin-top: 20px;
+    padding: 20px;
 }
