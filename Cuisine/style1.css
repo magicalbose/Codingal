@@ -24,8 +24,20 @@ text-decoration: underline;
 #NAME
 {
     background-color: coral;
+    padding: 10px;
+    margin:20px;
+    border: 15px solid green;
+    box-shadow: 20px;
 }
 #PHONE
 {
     background-color: fuchsia;
+    padding: 20px;
+    margin:30px;
+    border: 15px solid red;
+}
+#Title{
+    border: 9px solid orange;
+    padding: 20px;
+
 }
